@@ -1,0 +1,29 @@
+---
+title: "Data Analysis using Pandas"
+---
+
+* Python Notebooks
+    1. Basics of Pandas Part 1 (<a href="basics_of_pandas.ipynb" download="basics_of_pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/basics_of_pandas.ipynb) )
+    2. More with Pandas Part 2 (<a href="more_with_pandas.ipynb" download="more_with_pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/more_with_pandas.ipynb) )
+    3. Data Analysis Using Pandas & Sklearn Part 3 (<a href="pandas_and_sklearn.ipynb" download="pandas_and_sklearn.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/pandas_and_sklearn.ipynb) )
+    4. Customer Segmentation Using k-Means Cluster Part 4 (<a href="k-means_cluster.ipynb" download="k-means_cluster.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/k-means_cluster.ipynb) )
+    
+* Other Resources:   
+    1. [Python Standard Library](https://docs.python.org/3/library/)
+    2. [Python Style Guide](https://pep8.org/#introduction)
+    3. [Numpy User Guide](https://www.numpy.org/devdocs/user/index.html)
+    4. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
+    5. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html) (login [here](http://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) for UofT free access)
+    6. [Linear Regression in Python](https://realpython.com/linear-regression-in-python/#simple-linear-regression-with-scikit-learn)
+    7. [Sklearn Quick Start Tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) 
+    8. [Sklearn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+    
+    Videos:
+    9. [PyCon 2014 Scikit-learn Tutorial](https://www.youtube.com/watch?v=HjAB45qsx_c) by Jake VanderPlas ([Github repo](https://github.com/ogrisel/sklearn_pycon2014))  
+        
+    Books:
+    10. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    11. [Learning scikit-learn: Machine Learning in Python ](https://www.amazon.ca/Learning-scikit-learn-Machine-Python/dp/1783281936)
+    12. [Hands-On Machine learning with Scikit-Learn and Tensorflow](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/)
+    
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
