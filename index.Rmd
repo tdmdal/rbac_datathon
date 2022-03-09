@@ -7,7 +7,9 @@ title: "Data Analysis using Pandas"
     2. More with Pandas Part 2 (<a href="more_with_pandas.ipynb" download="more_with_pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/more_with_pandas.ipynb) )
     3. Data Analysis Using Pandas & Sklearn Part 3 (<a href="pandas_and_sklearn.ipynb" download="pandas_and_sklearn.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/pandas_and_sklearn.ipynb) )
     4. Customer Segmentation Using k-Means Cluster Part 4 (<a href="k-means_cluster.ipynb" download="k-means_cluster.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/rbac_datathon/blob/master/docs/k-means_cluster.ipynb) )
-    
+* Data
+    1. ETF (<a href="ETF_Data_final.csv" download="ETF_Data_final.csv">Download</a>)
+    2. Bank Customer (<a href="Bank_Customers.csv" download="Bank_Customers.csv">Download</a>)
 * Other Resources:   
     1. [Python Standard Library](https://docs.python.org/3/library/)
     2. [Python Style Guide](https://pep8.org/#introduction)
